@@ -86,22 +86,6 @@ Si quieres revisar la configuracion paso a paso, consulta:
 
 - `Assets/SnakeSetupInstructions.md`
 
-## Que compartir con los alumnos
-
-Para compartir el proyecto, normalmente basta con entregar estas carpetas:
-
-- `Assets`
-- `Packages`
-- `ProjectSettings`
-
-No hace falta compartir:
-
-- `Library`
-- `Logs`
-- `Temp`
-- `UserSettings`
-
-Lo mas practico es comprimir la carpeta del proyecto o subirla a un repositorio.
 
 ## Posibles mejoras para futuras fases
 
