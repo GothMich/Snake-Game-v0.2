@@ -106,9 +106,7 @@ Estas son buenas ideas para que los alumnos sigan construyendo el juego:
 - añadir menu de dificultad
 - portar el control a movil con botones en pantalla
 
-## Ideas para clase
-
-Una secuencia sencilla de trabajo con alumnos puede ser:
+## En clase
 
 1. Ejecutar el proyecto y entender como esta dividido.
 2. Leer `GameManager` para ver como se organiza la partida.
