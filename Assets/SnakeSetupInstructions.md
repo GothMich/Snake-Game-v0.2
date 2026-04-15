@@ -2,7 +2,7 @@
 
 ## Escena principal
 
-1. Abre `Assets/Scenes/SampleScene.unity` o renómbrala a `MainScene`.
+1. Abre `Assets/Scenes/MainScene.unity`.
 2. Elimina objetos que no necesites y deja la escena limpia.
 3. En la cámara principal usa:
    - `Projection`: Orthographic
